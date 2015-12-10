@@ -3,4 +3,4 @@ its a simple javaScript Toy project .There will be no library like jQuery . A pa
 
 
 and live link is 
-http://mones-cse.github.io/Simple_JavaScript_Project/
+http://mones-cse.github.io/Simple_JavaScript_Quize/
