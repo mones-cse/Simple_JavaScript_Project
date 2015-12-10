@@ -1,26 +1,23 @@
-
-
 .header {
 	text-align: center;
 	border-bottom: dashed white;
 }
 
 body {
-	background-color:coral;
+	background-color: coral;
 	color: aliceblue;
 }
 
-
 .container {
 	width: 60%;
-	margin:25px auto;
+	margin: 25px auto;
 	padding: 20px;
 	overflow: auto;
-	background-color:cornflowerblue;
+	background-color: cornflowerblue;
 }
 
 #result {
-	background-color:coral;
+	background-color: coral;
 	margin: 10px;
 	text-align: center;
 }
@@ -33,16 +30,9 @@ body {
 	color: black;
 }
 
-
-
-.submit_button{
-  background-color: coral;
+.submit_button {
+	background-color: coral;
 	color: aliceblue;
-  cursor: pointer;
+	cursor: pointer;
 	border: 0;
-}
-
-
-#result {
-	
 }
